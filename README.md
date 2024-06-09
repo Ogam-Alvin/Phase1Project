@@ -22,9 +22,12 @@ it consists of two main files:
 
 ### Example outputs from the data
 ![Total Fatal Injuries Per Aircraft Category](Total Fatal Injuries Per Aircraft Category.png)
+
 ![Total Fatal Injuries By Weather Conditions](Total Fatal Injuries By Weather Conditions.png)
+
 ![Total Fatal injuries by Purpose of Flight](Total Fatal injuries by Purpose of Flight.png)
 
+From the data used we can also get an interactive [dashboard](https://public.tableau.com/app/profile/alvin.ogam/viz/Fatal-Injuries-Under-Various-Conditions/Dashboard1) by the use of Tableau. This dashboard shows the relation of fatal injuries and various conditions
 
 ## Conclusions
 1) We will draw our first conclusion from the first graph where we are looking at the fatalities accross each type of available aircraft. Now it is keen to note that the most fatlities occur when the type of aircraft being used is an airolane. This is rightfully so since they are the ones that carry the most ammount of people and are the most common tpye of airplanes in service. However, this does mean that they have the highest risk since even though they have potential to bring in the most revenue
