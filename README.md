@@ -21,9 +21,15 @@ it consists of two main files:
 2) `USState_Codes.csv` :This file contains the US State name and the abbreviation of them
 
 ### Example outputs from the data
-[Total Fatal Injuries Per Aircraft Category](Total Fatal Injuries Per Aircraft Category.png)
-[Total Fatal Injuries By Weather Conditions](Total Fatal Injuries By Weather Conditions.png)
-[Total Fatal injuries by Purpose of Flight](Total Fatal injuries by Purpose of Flight.png)
+There are three graphs drawn from the dataset given primarily :
+
+![Total Fatal Injuries Per Aircraft Category](TotalFatalInjuriesPerAircraftCategory.png)
+
+
+![Total Fatal Injuries By Weather Conditions](TotalFatalInjuriesByWeatherConditions.png)
+
+
+![Total Fatal injuries by Purpose of Flight](TotalFatalinjuriesbyPurposeofFlight.png)
 
 From the data used we can also get an interactive [dashboard](https://public.tableau.com/app/profile/alvin.ogam/viz/Fatal-Injuries-Under-Various-Conditions/Dashboard1) by the use of Tableau. This dashboard shows the relation of fatal injuries and various conditions
 
