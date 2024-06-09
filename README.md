@@ -29,7 +29,7 @@ There are three graphs drawn from the dataset given primarily :
 ![Total Fatal Injuries By Weather Conditions](TotalFatalInjuriesByWeatherConditions.png)
 
 
-![Total Fatal injuries by Purpose of Flight](TotalFatalinjuriesbyPurposeofFlight.png)
+![Total Fatal injuries by Purpose of Flight](TotalFatalInjuriesbyPurposeofFlight.png)
 
 From the data used we can also get an interactive [dashboard](https://public.tableau.com/app/profile/alvin.ogam/viz/Fatal-Injuries-Under-Various-Conditions/Dashboard1) by the use of Tableau. This dashboard shows the relation of fatal injuries and various conditions
 
